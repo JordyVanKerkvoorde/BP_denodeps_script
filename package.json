@@ -1,0 +1,24 @@
+{
+  "name": "bp_denodeps_script",
+  "version": "1.0.0",
+  "description": "BP_denodeps_script",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JordyVanKerkvoorde/BP_denodeps_script.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JordyVanKerkvoorde/BP_denodeps_script/issues"
+  },
+  "homepage": "https://github.com/JordyVanKerkvoorde/BP_denodeps_script#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^10.0.0"
+  }
+}
